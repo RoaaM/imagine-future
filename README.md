@@ -12,7 +12,18 @@ Create Stunning Images: For every sentence in your story, we generate a beautifu
 
 Display in Arabic: While the app operates in English, it's tailored for Arabic-speaking users. It translates the generated stories and images into Arabic, providing an immersive experience.
 
-## Here you can see some sample story:
+## 📚 Here you can see some sample stories:
+<p align="center">
+  <img src="./1.png" alt="1" width="30%" />
+  <img src="./2.png" alt="2" width="30%" />
+  <img src="./3.png" alt="3" width="30%" />
+</p>
+
+<p align="center">
+  <img src="./4.png" alt="4" width="30%" />
+  <img src="./5.png" alt="5" width="30%" />
+  <img src="./6.png" alt="6" width="30%" />
+</p>
 
 
 
