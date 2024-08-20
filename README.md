@@ -6,11 +6,11 @@ Welcome to Imagine Your Future – an innovative and creative app that lets you 
 
 This app is designed to help you imagine your future in a fun and engaging way. Here's how it works:
 
-Generate Inspiring Stories: Enter your name, age, dream, and country, and the app will create a positive and realistic story about your future.
+**Generate Inspiring Stories:** Enter your name, age, dream, and country, and the app will create a positive and realistic story about your future.
 
-Create Stunning Images: For every sentence in your story, we generate a beautiful illustration that brings your dream to life!
+**Create Stunning Images:** For every sentence in your story, we generate a beautiful illustration that brings your dream to life!
 
-Display in Arabic: While the app operates in English, it's tailored for Arabic-speaking users. It translates the generated stories and images into Arabic, providing an immersive experience.
+**Display in Arabic:** While the app operates in English, it's tailored for Arabic-speaking users. It translates the generated stories and images into Arabic, providing an immersive experience.
 
 ## 📚 Here you can see some sample stories:
 <p align="center">
