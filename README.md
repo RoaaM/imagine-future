@@ -58,6 +58,9 @@ Clone this repository.
 Install the necessary dependencies using 
 ```sh
 pip install -r requirements.txt.
+uvicorn llm_api:app --reload
+uvicorn image_api:app --host 0.0.0.0 --port 8001
+streamlit run app.py
 ```
 Run the FastAPI server for story and image generation.
 Launch the Streamlit app to interact with the service.
