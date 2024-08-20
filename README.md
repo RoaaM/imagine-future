@@ -21,8 +21,8 @@ Display in Arabic: While the app operates in English, it's tailored for Arabic-s
 
 <p align="center">
   <img src="./4.png" alt="4" width="30%" />
-  <img src="./5.png" alt="5" width="30%" />
   <img src="./6.png" alt="6" width="30%" />
+  <img src="./5.png" alt="5" width="30%" />
 </p>
 
 
